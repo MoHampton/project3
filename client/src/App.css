@@ -6,3 +6,8 @@ body {
 hr {
   margin: 10px 0;
 }
+
+#info {
+  text-align: center;
+}
+

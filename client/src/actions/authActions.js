@@ -1,4 +1,4 @@
-import { setCookie, removeCookie, getCookie } from '../utils/cookies'
+{/*import { setCookie, removeCookie, getCookie } from '../utils/cookies'
 import { getStorage } from '../utils/localStorage'
 import authRequests from '../utils/api/authRequests'
 
@@ -78,4 +78,4 @@ export const getAuthUser = () => {
   //   await handleError(dispatch, err, GET_AUTHENTICATED_USER);
   // }
 };
-///
+///*/}

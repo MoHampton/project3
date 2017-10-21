@@ -10,6 +10,6 @@ const BKVid = () =>
          <p>Find Your Next Event</p>
     </div>
  </div>
- </div>;
+ </div>
 
  export default BKVid;
